@@ -1,4 +1,4 @@
-# wallet
+# Wallet UI Using Flutter
 
 A new Flutter project.
 
